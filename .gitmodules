@@ -1,0 +1,3 @@
+[submodule "sdtv2csi"]
+	path = sdtv2csi
+	url = https://github.com/rniwase/sdtv2csi.git
